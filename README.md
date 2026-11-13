@@ -34,13 +34,17 @@
 
 ### 蓝帽人像
 
-<img src="examples/denim-cap-portrait.png" alt="蓝帽人像转绘：低帽檐遮住部分眼睛，保留蓝白花裙、格纹肩带与低头姿态" width="420">
+| 原图 | 使用 Photo Doodle 转绘 |
+| :---: | :---: |
+| <img src="examples/denim-cap-portrait-before.png" alt="原图：戴浅蓝色帽子的人像自拍，穿蓝白花裙，肩背格纹包带" width="360"> | <img src="examples/denim-cap-portrait.png" alt="蓝帽人像转绘：低帽檐遮住部分眼睛，保留蓝白花裙、格纹肩带与低头姿态" width="360"> |
 
 保留低帽檐、低头姿态、蓝白花裙与格纹肩带，将座椅和扶手简化为少量线条与色块。
 
 ### 生日合照
 
-<img src="examples/birthday-group.png" alt="生日合照转绘：三位朋友围着蛋糕，保留托腮与指向脸颊的手势、纸皇冠和蜡烛" width="720">
+| 原图 | 使用 Photo Doodle 转绘 |
+| :---: | :---: |
+| <img src="examples/birthday-group-before.jpg" alt="原图：三位朋友围着生日蛋糕合照，中间人物戴纸皇冠，两侧人物用手托腮或指向脸颊" width="360"> | <img src="examples/birthday-group.png" alt="生日合照转绘：三位朋友围着蛋糕，保留托腮与指向脸颊的手势、纸皇冠和蜡烛" width="360"> |
 
 保留三人的相对位置、托腮与指向脸颊的手势，以及纸皇冠、蛋糕和蜡烛；删去桌面杂物与室内背景细节。
 
